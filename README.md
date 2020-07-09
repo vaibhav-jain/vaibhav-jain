@@ -1,4 +1,4 @@
-# Hi there ![wave](./wave.gif)
+# Hi there ![wave](https://github.com/vaibhav-jain/vaibhav-jain/blob/master/wave.gif)
 
 - 🔭 I’m currently working on improving my soft skills ...
 - 🌱 I’m currently finishing up my udemy course on ML
